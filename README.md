@@ -64,3 +64,7 @@ flutter run   # 에뮬레이터 또는 실기기 연결 후
 ## 빌드/배포 참고
 - `pubspec.yaml`에 아이콘 경로(`assets/icon/icon_img.png`)가 설정되어 있으며 `flutter_launcher_icons`로 아이콘 생성 가능.
 - 릴리스 빌드시 각 플랫폼별 Firebase, 서명/프로비저닝 설정을 완료하세요.
+
+## 라이선스
+MIT License. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
+
